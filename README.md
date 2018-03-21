@@ -1,6 +1,6 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
+# [BDReborn V6 (Final Version)]
 
-**An advanced and powerful administration bot based on NEW TG-CLI
+** یک ربات پیشرفته و قدرتمند مبتنی بر NEW TG-CLI
 
 
 * * *
@@ -18,8 +18,8 @@
 # Installation
 
 **If use BDHelper put your helper bot Username Without @ in bot.lua, line 22
-
-```sh
+the
+https://t.me/TinigerTG_Bot
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/BeyondTeam/BDReborn.git
@@ -42,8 +42,8 @@ cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn 
 OR
 
 cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
-```
-
+`` `
+theU
 * * *
 
 # Support and Development
